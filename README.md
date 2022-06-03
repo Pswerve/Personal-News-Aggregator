@@ -1,5 +1,7 @@
 # Personal-News-Aggregator
 
+Built using Django Web Framework
+
 Provides:
 1. Customized News Feed
 2. All your News Updates at one place
