@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from newsapi.newsapi_client import NewsApiClient
 import requests
-API_KEY = '292dc90f1c074f319030cea2c48c1449'
+API_KEY = ''
 
 
 # Create your views here.
